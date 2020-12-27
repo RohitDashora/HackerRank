@@ -5,7 +5,8 @@ import os
 import random
 import re
 import sys
-
+from collections import OrderedDict
+from itertools import repeat
 #
 # Complete the 'climbingLeaderboard' function below.
 #
@@ -14,27 +15,29 @@ import sys
 #  1. INTEGER_ARRAY ranked
 #  2. INTEGER_ARRAY player
 #
-
-
-def BinSearchInsert(array, element):
+def BinSearchInsert(array, element, lastIndex):
     #array is reverse sorted
     maxI=0 
-    minI=len(array)-1
-    midI=math.floor(len(array)/2)
-    
+    minI=lastIndex
+    midI=math.floor((minI-maxI)/2)
     while True:
-        print( element, maxI, midI, minI)
+        if element == array[maxI] : 
+            out =maxI
+            break
+        if element == array[minI] : 
+            out =minI
+            break
+        if element == array[midI] : 
+            out =midI
+            break
         if element > array[maxI] :
-            #array.insert(maxI, element)
             out=maxI
             break
         if element < array[minI] : 
-            #array.insert(minI+1, element)
             out=minI+1
             break
         if element < array[midI] :
             if abs(minI - midI) == 1 : 
-                #array.insert(minI, element)
                 out=minI
                 break
             else :
@@ -43,27 +46,21 @@ def BinSearchInsert(array, element):
                 continue
         if element > array[midI] :
             if abs(maxI - midI) ==1 :
-                #array.insert(midI, element)
                 out=midI
                 break
             else: 
                 minI=midI
                 midI= math.floor((minI-maxI)/2)
-    print(out)
     return out
         
 
 def climbingLeaderboard(ranked, player):
-    ranked=list(dict.fromkeys(ranked)) 
-    ranked.sort(reverse=True)
+    ranked1= list(OrderedDict(zip(ranked, repeat(None))))
     rank=[]
+    index=len(ranked1)-1
+    index0=len(ranked1)-1
     for score in player :
-        r1=ranked  
-        if score not in r1 :                      
-            index=BinSearchInsert(r1, score)
-        else : index = r1.index(score)
+        index=BinSearchInsert(ranked1, score, min(index,index0))                  
         rank.append(index+1)
     return rank
-
-
 
