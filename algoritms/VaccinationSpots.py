@@ -10,4 +10,17 @@ url=endpoint+'pincode='+pincode+'&date='+date
 print(url)
 response=requests.get(url)
 vacdata=response.json()
-print(vacdata)
+
+
+center_count =len(vacdata["centers"])
+
+
+for i in range(0,center_count):
+    sessions = vacdata["centers"][i]["sessions"]
+    available=0
+    for i in range(len(sessions)):
+        available=sessions[i]["available_capacity"]
+        print((available))
+
+
+
