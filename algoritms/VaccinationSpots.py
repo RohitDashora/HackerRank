@@ -17,10 +17,15 @@ center_count =len(vacdata["centers"])
 
 for i in range(0,center_count):
     sessions = vacdata["centers"][i]["sessions"]
+    location = vacdata["centers"][i]["name"]
+    freepaid =vacdata["centers"][i]["fee_type"]
     available=0
     for i in range(len(sessions)):
+        min_age_limit =sessions[i]["min_age_limit"]
         available=sessions[i]["available_capacity"]
-        print((available))
+        slot= sessions[i]["slots"]
+        if min_age_limit == 18 & available > 0 :
+            print(location,freepaid, slot,available)
 
 
 
