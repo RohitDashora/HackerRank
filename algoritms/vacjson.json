@@ -1,122 +1,51 @@
-[
-    {"center_id": 563266, "name": "UPHC Bhopalpura", "state_name": "Rajasthan", "district_name": "Udaipur", "block_name": "Udaipur Urban", "pincode": 313001, "lat": 0, "long": 0, "from": "09: 00: 00", "to": "18: 00: 00", "fee_type": "Free", "sessions": [
-            {"session_id": "a529f663-3f03-4edb-9ef4-19cc9e774859", "date": "03-05-2021", "available_capacity": 0, "min_age_limit": 45, "vaccine": "", "slots": ["09: 00AM-11: 00AM", "11: 00AM-01: 00PM", "01: 00PM-03: 00PM", "03: 00PM-06: 00PM"
-                ]
-            },
-            {"session_id": "3a76a886-daf7-415d-bb9d-760029d47a22", "date": "03-05-2021", "available_capacity": 40, "min_age_limit": 45, "vaccine": "", "slots": ["09: 00AM-11: 00AM", "11: 00AM-01: 00PM", "01: 00PM-03: 00PM", "03: 00PM-06: 00PM"
-                ]
-            }
-        ]
-    },
-    {"center_id": 565511, "name": "SSB-3 RNT Medical Collage", "state_name": "Rajasthan", "district_name": "Udaipur", "block_name": "Udaipur Urban", "pincode": 313001, "lat": 24, "long": 73, "from": "09: 00: 00", "to": "18: 00: 00", "fee_type": "Free", "sessions": [
-            {"session_id": "9ccd11e4-bc2f-406c-8638-709880a96e90", "date": "03-05-2021", "available_capacity": 0, "min_age_limit": 18, "vaccine": "", "slots": ["09: 00AM-11: 00AM", "11: 00AM-01: 00PM", "01: 00PM-03: 00PM", "03: 00PM-06: 00PM"
-                ]
-            },
-            {"session_id": "9be2dd46-05cd-46ad-8e88-6eca7d89f49a", "date": "04-05-2021", "available_capacity": 0, "min_age_limit": 18, "vaccine": "", "slots": ["09: 00AM-11: 00AM", "11: 00AM-01: 00PM", "01: 00PM-03: 00PM", "03: 00PM-04: 00PM"
-                ]
-            }
-        ]
-    },
-    {"center_id": 210234, "name": "Bacchar PHC", "state_name": "Rajasthan", "district_name": "Udaipur", "block_name": "Girwa", "pincode": 313001, "lat": 0, "long": 0, "from": "09: 00: 00", "to": "18: 00: 00", "fee_type": "Free", "sessions": [
-            {"session_id": "d1c6156b-e741-4919-8bce-45f96b520b1d", "date": "03-05-2021", "available_capacity": 47, "min_age_limit": 45, "vaccine": "", "slots": ["09: 00AM-11: 00AM", "11: 00AM-01: 00PM", "01: 00PM-03: 00PM", "03: 00PM-06: 00PM"
-                ]
-            }
-        ]
-    },
-    {"center_id": 565495, "name": "SSB-2 RNT Medical Collage", "state_name": "Rajasthan", "district_name": "Udaipur", "block_name": "Udaipur Urban", "pincode": 313001, "lat": 24, "long": 76, "from": "09: 00: 00", "to": "18: 00: 00", "fee_type": "Free", "sessions": [
-            {"session_id": "a82ceda5-6f7f-4026-b90b-756ac3519453", "date": "03-05-2021", "available_capacity": 47, "min_age_limit": 45, "vaccine": "", "slots": ["09: 00AM-11: 00AM", "11: 00AM-01: 00PM", "01: 00PM-03: 00PM", "03: 00PM-06: 00PM"
-                ]
-            }
-        ]
-    },
-    {"center_id": 546203, "name": "Palodara PHC", "state_name": "Rajasthan", "district_name": "Udaipur", "block_name": "Sarada", "pincode": 313001, "lat": 0, "long": 0, "from": "09: 00: 00", "to": "18: 00: 00", "fee_type": "Free", "sessions": [
-            {"session_id": "6ea8b77f-73b0-4595-bbc6-3bcd4adeed7b", "date": "03-05-2021", "available_capacity": 50, "min_age_limit": 45, "vaccine": "", "slots": ["09: 00AM-11: 00AM", "11: 00AM-01: 00PM", "01: 00PM-03: 00PM", "03: 00PM-06: 00PM"
-                ]
-            }
-        ]
-    },
-    {"center_id": 574790, "name": "SSB- Four RNT Medical Collage", "state_name": "Rajasthan", "district_name": "Udaipur", "block_name": "Udaipur Urban", "pincode": 313001, "lat": 24, "long": 73, "from": "09: 00: 00", "to": "18: 00: 00", "fee_type": "Free", "sessions": [
-            {"session_id": "2677838a-6e73-4e65-a470-cba7e8ed84fa", "date": "03-05-2021", "available_capacity": 0, "min_age_limit": 18, "vaccine": "", "slots": ["09: 00AM-11: 00AM", "11: 00AM-01: 00PM", "01: 00PM-03: 00PM", "03: 00PM-06: 00PM"
-                ]
-            },
-            {"session_id": "ec171cc3-d870-48b6-a6cb-331703ffd86f", "date": "04-05-2021", "available_capacity": 0, "min_age_limit": 18, "vaccine": "", "slots": ["09: 00AM-11: 00AM", "11: 00AM-01: 00PM", "01: 00PM-03: 00PM", "03: 00PM-06: 00PM"
-                ]
-            }
-        ]
-    },
-    {"center_id": 546408, "name": "Manchla Magra UPHC", "state_name": "Rajasthan", "district_name": "Udaipur", "block_name": "Udaipur Urban", "pincode": 313001, "lat": 24, "long": 73, "from": "09: 00: 00", "to": "18: 00: 00", "fee_type": "Free", "sessions": [
-            {"session_id": "ea045bc6-de74-448d-ae0d-c01659504eb3", "date": "03-05-2021", "available_capacity": 46, "min_age_limit": 45, "vaccine": "", "slots": ["09: 00AM-11: 00AM", "11: 00AM-01: 00PM", "01: 00PM-03: 00PM", "03: 00PM-06: 00PM"
-                ]
-            }
-        ]
-    },
-    {"center_id": 546752, "name": "Jagdish Chowk UPHC", "state_name": "Rajasthan", "district_name": "Udaipur", "block_name": "Udaipur Urban", "pincode": 313001, "lat": 0, "long": 0, "from": "09: 00: 00", "to": "18: 00: 00", "fee_type": "Free", "sessions": [
-            {"session_id": "a00ca497-25e3-46a0-a59d-31ec11ed9f0a", "date": "03-05-2021", "available_capacity": 5, "min_age_limit": 45, "vaccine": "", "slots": ["09: 00AM-11: 00AM", "11: 00AM-01: 00PM", "01: 00PM-03: 00PM", "03: 00PM-06: 00PM"
-                ]
-            }
-        ]
-    },
-    {"center_id": 546757, "name": "Chitrakut Nagar UPHC", "state_name": "Rajasthan", "district_name": "Udaipur", "block_name": "Udaipur Urban", "pincode": 313001, "lat": 0, "long": 0, "from": "09: 00: 00", "to": "16: 00: 00", "fee_type": "Free", "sessions": [
-            {"session_id": "1236aad5-3138-4387-a122-a8e645de7f7c", "date": "03-05-2021", "available_capacity": 0, "min_age_limit": 18, "vaccine": "", "slots": ["09: 00AM-11: 00AM", "11: 00AM-01: 00PM", "01: 00PM-03: 00PM", "03: 00PM-04: 00PM"
-                ]
-            },
-            {"session_id": "3f6b1af8-6cb8-4012-bc23-bc7388a380a8", "date": "04-05-2021", "available_capacity": 0, "min_age_limit": 18, "vaccine": "", "slots": ["09: 00AM-11: 00AM", "11: 00AM-01: 00PM", "01: 00PM-03: 00PM", "03: 00PM-06: 00PM"
-                ]
-            }
-        ]
-    },
-    {"center_id": 546407, "name": "UPHC Police Line", "state_name": "Rajasthan", "district_name": "Udaipur", "block_name": "Udaipur Urban", "pincode": 313001, "lat": 24, "long": 73, "from": "09: 00: 00", "to": "18: 00: 00", "fee_type": "Free", "sessions": [
-            {"session_id": "de376aee-7dd1-49bf-89cb-8d0a51d9ed09", "date": "03-05-2021", "available_capacity": 48, "min_age_limit": 45, "vaccine": "", "slots": ["09: 00AM-11: 00AM", "11: 00AM-01: 00PM", "01: 00PM-03: 00PM", "03: 00PM-06: 00PM"
-                ]
-            },
-            {"session_id": "24832fa6-6973-4481-a214-bd270a7bb0c0", "date": "04-05-2021", "available_capacity": 0, "min_age_limit": 45, "vaccine": "", "slots": ["09: 00AM-11: 00AM", "11: 00AM-01: 00PM", "01: 00PM-03: 00PM", "03: 00PM-06: 00PM"
-                ]
-            }
-        ]
-    },
-    {"center_id": 546409, "name": "Ayad UPHC", "state_name": "Rajasthan", "district_name": "Udaipur", "block_name": "Udaipur Urban", "pincode": 313001, "lat": 0, "long": 0, "from": "09: 00: 00", "to": "18: 00: 00", "fee_type": "Free", "sessions": [
-            {"session_id": "183978ae-1fe9-4f6b-8c6c-ed49a7ae88ed", "date": "03-05-2021", "available_capacity": 0, "min_age_limit": 45, "vaccine": "", "slots": ["09: 00AM-11: 00AM", "11: 00AM-01: 00PM", "01: 00PM-03: 00PM", "03: 00PM-06: 00PM"
-                ]
-            }
-        ]
-    },
-    {"center_id": 553798, "name": "Bhuwana Urban CHC", "state_name": "Rajasthan", "district_name": "Udaipur", "block_name": "Udaipur Urban", "pincode": 313001, "lat": 24, "long": 73, "from": "09: 00: 00", "to": "18: 00: 00", "fee_type": "Free", "sessions": [
-            {"session_id": "300c8b1f-8604-45b0-9d2d-042851751024", "date": "03-05-2021", "available_capacity": 40, "min_age_limit": 45, "vaccine": "", "slots": ["09: 00AM-11: 00AM", "11: 00AM-01: 00PM", "01: 00PM-03: 00PM", "03: 00PM-06: 00PM"
-                ]
-            }
-        ]
-    },
-    {"center_id": 546755, "name": "Fatehpura UPHC", "state_name": "Rajasthan", "district_name": "Udaipur", "block_name": "Udaipur Urban", "pincode": 313001, "lat": 0, "long": 0, "from": "09: 00: 00", "to": "18: 00: 00", "fee_type": "Free", "sessions": [
-            {"session_id": "b2fda11c-b163-4103-bc3e-d1e87854ff4b", "date": "03-05-2021", "available_capacity": 2, "min_age_limit": 45, "vaccine": "", "slots": ["09: 00AM-11: 00AM", "11: 00AM-01: 00PM", "01: 00PM-03: 00PM", "03: 00PM-06: 00PM"
-                ]
-            }
-        ]
-    },
-    {"center_id": 552587, "name": "SSB RNT Medical College", "state_name": "Rajasthan", "district_name": "Udaipur", "block_name": "Udaipur Urban", "pincode": 313001, "lat": 24, "long": 73, "from": "09: 00: 00", "to": "18: 00: 00", "fee_type": "Free", "sessions": [
-            {"session_id": "2b026b8d-2850-49d3-ac07-37625b292fd5", "date": "03-05-2021", "available_capacity": 44, "min_age_limit": 45, "vaccine": "", "slots": ["09: 00AM-11: 00AM", "11: 00AM-01: 00PM", "01: 00PM-03: 00PM", "03: 00PM-06: 00PM"
-                ]
-            }
-        ]
-    },
-    {"center_id": 552562, "name": "Satelite Hospital Chandpol", "state_name": "Rajasthan", "district_name": "Udaipur", "block_name": "Udaipur Urban", "pincode": 313001, "lat": 24, "long": 73, "from": "09: 00: 00", "to": "18: 00: 00", "fee_type": "Free", "sessions": [
-            {"session_id": "b5b1de50-549e-4340-a7f7-6bc5fd55572d", "date": "03-05-2021", "available_capacity": 0, "min_age_limit": 18, "vaccine": "", "slots": ["09: 00AM-11: 00AM", "11: 00AM-01: 00PM", "01: 00PM-03: 00PM", "03: 00PM-06: 00PM"
-                ]
-            },
-            {"session_id": "d91d316c-bd44-44f6-919d-bac2032a91d0", "date": "04-05-2021", "available_capacity": 0, "min_age_limit": 18, "vaccine": "", "slots": ["09: 00AM-11: 00AM", "11: 00AM-01: 00PM", "01: 00PM-03: 00PM", "03: 00PM-04: 00PM"
-                ]
-            }
-        ]
-    },
-    {"center_id": 546736, "name": "Dhanmandi UPHC", "state_name": "Rajasthan", "district_name": "Udaipur", "block_name": "Udaipur Urban", "pincode": 313001, "lat": 0, "long": 0, "from": "09: 00: 00", "to": "18: 00: 00", "fee_type": "Free", "sessions": [
-            {"session_id": "6abe5822-ad9d-4703-9bc2-2bc32a090245", "date": "03-05-2021", "available_capacity": 0, "min_age_limit": 45, "vaccine": "", "slots": ["09: 00AM-11: 00AM", "11: 00AM-01: 00PM", "01: 00PM-03: 00PM", "03: 00PM-06: 00PM"
-                ]
-            }
-        ]
-    },
-    {"center_id": 552561, "name": "G.S.S.S. SAVINA", "state_name": "Rajasthan", "district_name": "Udaipur", "block_name": "Girwa", "pincode": 313001, "lat": 0, "long": 0, "from": "09: 00: 00", "to": "18: 00: 00", "fee_type": "Free", "sessions": [
-            {"session_id": "034bbdea-4671-4a60-ab23-fab002cd8415", "date": "03-05-2021", "available_capacity": 27, "min_age_limit": 45, "vaccine": "", "slots": ["09: 00AM-11: 00AM", "11: 00AM-01: 00PM", "01: 00PM-03: 00PM", "03: 00PM-06: 00PM"
-                ]
-            }
-        ]
-    }
-]
+{"centers": [
+        {"center_id": 545421, "name": "Adinda PHC", "state_name": "Rajasthan", "district_name": "Udaipur", "block_name": "Bhinder", "pincode": 313602, "lat": 0, "long": 0, "from": "09: 00: 00", "to": "18: 00: 00", "fee_type": "Free", "sessions": [
+                {"session_id": "c73258d1-6293-488c-84a5-0539ad0574f2", "date": "03-05-2021", "available_capacity": 0, "min_age_limit": 45, "vaccine": "", "slots": ["09: 00AM-11: 00AM", "11: 00AM-01: 00PM", "01: 00PM-03: 00PM", "03: 00PM-06: 00PM"
+                    ]
+                },
+                {"session_id": "bada399b-a242-4094-9733-073ce8dca71d", "date": "04-05-2021", "available_capacity": 2, "min_age_limit": 45, "vaccine": "", "slots": ["09: 00AM-11: 00AM", "11: 00AM-01: 00PM", "01: 00PM-03: 00PM", "03: 00PM-06: 00PM"
+                    ]
+                },
+                {"session_id": "1ed5b81d-5864-4c93-938a-a4d275341fa7", "date": "05-05-2021", "available_capacity": 4, "min_age_limit": 45, "vaccine": "", "slots": ["09: 00AM-11: 00AM", "11: 00AM-01: 00PM", "01: 00PM-03: 00PM", "03: 00PM-06: 00PM"
+                    ]
+                },
+                {"session_id": "f096d8f0-ea85-49de-a086-11c1f8891744", "date": "06-05-2021", "available_capacity": 5, "min_age_limit": 45, "vaccine": "", "slots": ["09: 00AM-11: 00AM", "11: 00AM-01: 00PM", "01: 00PM-03: 00PM", "03: 00PM-06: 00PM"
+                    ]
+                },
+                {"session_id": "fa6639fe-c9b6-454c-a98b-8f0dc08a87b6", "date": "07-05-2021", "available_capacity": 5, "min_age_limit": 45, "vaccine": "", "slots": ["09: 00AM-11: 00AM", "11: 00AM-01: 00PM", "01: 00PM-03: 00PM", "03: 00PM-06: 00PM"
+                    ]
+                },
+                {"session_id": "0a9ac544-a8cf-4b5f-9890-eceabe0693bf", "date": "08-05-2021", "available_capacity": 5, "min_age_limit": 45, "vaccine": "", "slots": ["09: 00AM-11: 00AM", "11: 00AM-01: 00PM", "01: 00PM-03: 00PM", "03: 00PM-06: 00PM"
+                    ]
+                },
+                {"session_id": "75060c5a-06c4-4be7-b4f2-4d4e58eafb34", "date": "09-05-2021", "available_capacity": 5, "min_age_limit": 45, "vaccine": "", "slots": ["09: 00AM-11: 00AM", "11: 00AM-01: 00PM", "01: 00PM-03: 00PM", "03: 00PM-06: 00PM"
+                    ]
+                }
+            ]
+        },
+        {"center_id": 546891, "name": "Kheroda PHC", "state_name": "Rajasthan", "district_name": "Udaipur", "block_name": "Bhinder", "pincode": 313602, "lat": 0, "long": 0, "from": "09: 00: 00", "to": "18: 00: 00", "fee_type": "Free", "sessions": [
+                {"session_id": "d605193f-6ac4-41c8-9a56-20f977fb0a7a", "date": "03-05-2021", "available_capacity": 2, "min_age_limit": 45, "vaccine": "", "slots": ["09: 00AM-11: 00AM", "11: 00AM-01: 00PM", "01: 00PM-03: 00PM", "03: 00PM-06: 00PM"
+                    ]
+                },
+                {"session_id": "3f9dc092-b036-42db-9441-0082e12cdcde", "date": "04-05-2021", "available_capacity": 0, "min_age_limit": 45, "vaccine": "", "slots": ["09: 00AM-11: 00AM", "11: 00AM-01: 00PM", "01: 00PM-03: 00PM", "03: 00PM-06: 00PM"
+                    ]
+                },
+                {"session_id": "9176e190-5cae-46a1-9174-025aeb184594", "date": "05-05-2021", "available_capacity": 0, "min_age_limit": 45, "vaccine": "", "slots": ["09: 00AM-11: 00AM", "11: 00AM-01: 00PM", "01: 00PM-03: 00PM", "03: 00PM-06: 00PM"
+                    ]
+                },
+                {"session_id": "a202c797-76dc-40db-9225-36b03584c472", "date": "06-05-2021", "available_capacity": 0, "min_age_limit": 45, "vaccine": "", "slots": ["09: 00AM-11: 00AM", "11: 00AM-01: 00PM", "01: 00PM-03: 00PM", "03: 00PM-06: 00PM"
+                    ]
+                },
+                {"session_id": "937079b0-1483-4ae1-98a4-d60a872352a1", "date": "07-05-2021", "available_capacity": 0, "min_age_limit": 45, "vaccine": "", "slots": ["09: 00AM-11: 00AM", "11: 00AM-01: 00PM", "01: 00PM-03: 00PM", "03: 00PM-06: 00PM"
+                    ]
+                },
+                {"session_id": "e20833d2-ec55-48b9-9e0b-fd489c0f339f", "date": "08-05-2021", "available_capacity": 0, "min_age_limit": 45, "vaccine": "", "slots": ["09: 00AM-11: 00AM", "11: 00AM-01: 00PM", "01: 00PM-03: 00PM", "03: 00PM-06: 00PM"
+                    ]
+                },
+                {"session_id": "fef48c2c-2212-4935-b774-5ce612bea5b3", "date": "09-05-2021", "available_capacity": 5, "min_age_limit": 45, "vaccine": "", "slots": ["09: 00AM-11: 00AM", "11: 00AM-01: 00PM", "01: 00PM-03: 00PM", "03: 00PM-06: 00PM"
+                    ]
+                }
+            ]
+        }
+    ]
+}
