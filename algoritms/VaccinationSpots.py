@@ -5,9 +5,12 @@ from datetime import date
 from datetime import timedelta
 
 endpoint = 'https://cdn-api.co-vin.in/api/v2/appointment/sessions/public/calendarByPin?'
-ageLimit=45 #chnage it to 18
+ageLimit=18 #chnage it to 18
 pincode='313001'
 #date='03-05-2021'
+
+#Request URL: https://cdn-api.co-vin.in/api/v2/appointment/sessions/public/calendarByDistrict?district_id=504&date=03-05-2021
+
 
 def pollURL(endpoint, pincode, date):
     url=endpoint+'pincode='+pincode+'&date='+date
@@ -17,17 +20,11 @@ def pollURL(endpoint, pincode, date):
 
 
 if __name__ == '__main__':
-    
-    dates=[]
-    for i in range(0,8):
-        d= date.today()+timedelta(days=i) 
-        dates.append(d.strftime("%d-%m-%Y"))
-
-    #lets get data for next 1 week
-
     slot_list =[]
-    for date in dates :
-        response = pollURL(endpoint, pincode, date)    
+    #for date1 in dates :
+    if 1==1:
+        date2=date.today().strftime("%d-%m-%Y")
+        response = pollURL(endpoint, pincode, date2)    
         vacdata=response.json()
         #print(vacdata)
         center_count =len(vacdata["centers"])
