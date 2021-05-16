@@ -9,6 +9,8 @@ ageLimit=18 #chnage it to 18
 pincode='313001'
 #date='03-05-2021'
 
+
+
 #Request URL: https://cdn-api.co-vin.in/api/v2/appointment/sessions/public/calendarByDistrict?district_id=504&date=03-05-2021
 
 
@@ -25,6 +27,7 @@ if __name__ == '__main__':
     if 1==1:
         date2=date.today().strftime("%d-%m-%Y")
         response = pollURL(endpoint, pincode, date2)    
+        print(response)
         vacdata=response.json()
         #print(vacdata)
         center_count =len(vacdata["centers"])
